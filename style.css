@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 25px;
+}
+
+button {
+    background-color: blue;
+    color:antiquewhite;
+    border: 2px solid white;
+}
+
+body {
+    background-color: coral;
+}
+
+#Rocko {
+    margin: 50px;
+    padding: 10px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    border: 5px solid black;
+
+}
