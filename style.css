@@ -4,7 +4,8 @@ h1 {
     color: blue;
     text-align: center;
     text-transform: uppercase;
-    padding: 25px;
+    padding: 50px;
+    border: 2px solid;
 }
 
 button {
@@ -14,13 +15,12 @@ button {
 }
 
 body {
-    background-color: coral;
+    background-color: rgb(224, 105, 62);
 }
 
 #Rocko {
-    margin: 50px;
-    padding: 10px;
+    margin: 150px;
+    padding: 100px;
     background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
     border: 5px solid black;
-
 }
