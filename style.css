@@ -4,14 +4,16 @@ h1 {
     color: blue;
     text-align: center;
     text-transform: uppercase;
-    padding: 50px;
+    padding: 25px;
     border: 2px solid;
+    background-color: black;
 }
 
 button {
     background-color: blue;
     color:antiquewhite;
     border: 2px solid white;
+    padding: 10px;
 }
 
 body {
@@ -19,8 +21,10 @@ body {
 }
 
 #Rocko {
-    margin: 150px;
-    padding: 100px;
-    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    padding: 50px;
     border: 5px solid black;
+    margin-left: 400px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 75%);
+    box-sizing: border-box;
+    width: 500px;
 }

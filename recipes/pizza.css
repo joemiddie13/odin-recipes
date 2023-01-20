@@ -1,0 +1,10 @@
+h1 {
+    font-size: 30px;
+}
+
+div {
+    background-color: brown;
+    border: 2px solid rgb(red, green, blue);
+    padding: 10px;
+    margin: 10px;
+}
