@@ -12,13 +12,13 @@ h1 {
 .container {
     border: 2px solid white;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 button {
     background-color: blue;
     color:antiquewhite;
-    padding: 10px;
+    padding: 50px;
 }
 
 body {
