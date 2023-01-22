@@ -12,13 +12,22 @@ h1 {
 .container {
     border: 2px solid white;
     display: flex;
-    flex-direction: row;
+}
+
+.container > div {
+    flex: 1;
+    background-color: green;
+}
+
+.container > .steak {
+    flex: 2;
+
 }
 
 button {
     background-color: blue;
     color:antiquewhite;
-    padding: 50px;
+    padding: 25px;
 }
 
 body {
