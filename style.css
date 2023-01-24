@@ -17,11 +17,17 @@ h1 {
     background: peachpuff;
     border: 4px solid brown;
     height: 100px;
-    flex: 1;
-}
+    flex: 1;/*flex-grow, flex-shrink, flex-basis */
+} 
 
 .menu .steak {
     background-color: green;
+    flex: 1 1 200px;
+}
+
+.menu .salmon {
+    flex: 1 1 200px;
+    background-color: red;
 }
 
 /* button {
